@@ -107,8 +107,13 @@ Navigate to `http://localhost:3000` in your browser.
 - **Database connection errors**: Check your `.env` configuration
 
 ## API Documentation
-
 https://documenter.getpostman.com/view/24307430/2sBXcGDKeS
+
+## Deployement
+
+Deployed using Render
+
+https://reciepie-application-node-js.onrender.com/
 
 ## Support
 
