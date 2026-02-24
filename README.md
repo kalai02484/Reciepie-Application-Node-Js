@@ -106,6 +106,10 @@ Navigate to `http://localhost:3000` in your browser.
 - **Module not found**: Run `npm install` again
 - **Database connection errors**: Check your `.env` configuration
 
+## API Documentation
+
+https://documenter.getpostman.com/view/24307430/2sBXcGDKeS
+
 ## Support
 
 For issues and questions, please open an issue on the repository.
